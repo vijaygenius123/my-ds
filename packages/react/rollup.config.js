@@ -2,7 +2,7 @@ import ts from '@rollup/plugin-typescript'
 
 export default {
     input: [
-        'src/index.tsx'
+        'src/index.ts'
     ],
     output: [
         {
